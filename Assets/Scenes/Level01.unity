@@ -212,7 +212,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &4507330
 GameObject:
@@ -313,7 +313,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &12438031
 GameObject:
@@ -499,7 +499,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &19991257
 GameObject:
@@ -600,7 +600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &46661106
 GameObject:
@@ -701,7 +701,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &57839495
 GameObject:
@@ -802,7 +802,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &62695486
 GameObject:
@@ -988,7 +988,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &91689856
 GameObject:
@@ -1089,7 +1089,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1001 &93233847
 Prefab:
@@ -1236,7 +1236,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &107381082
 GameObject:
@@ -1337,8 +1337,83 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
+--- !u!1 &116323992
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 116323993}
+  - component: {fileID: 116323995}
+  - component: {fileID: 116323994}
+  m_Layer: 5
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &116323993
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 116323992}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 257097946}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &116323994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 116323992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 
+--- !u!222 &116323995
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 116323992}
+  m_CullTransparentMesh: 0
 --- !u!1 &122759813
 GameObject:
   m_ObjectHideFlags: 0
@@ -1438,7 +1513,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &124536960
 GameObject:
@@ -1539,7 +1614,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &132315209
 GameObject:
@@ -1595,7 +1670,7 @@ Transform:
   - {fileID: 1045546851}
   - {fileID: 2117091562}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &154280655 stripped
 Transform:
@@ -1701,7 +1776,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &161958402
 GameObject:
@@ -1802,7 +1877,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!4 &162312318 stripped
 Transform:
@@ -1954,7 +2029,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &175110826
 GameObject:
@@ -2055,7 +2130,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &179709234
 GameObject:
@@ -2156,7 +2231,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &179853165
 GameObject:
@@ -2257,7 +2332,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &200729226
 GameObject:
@@ -2358,7 +2433,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &206911625
 GameObject:
@@ -2459,7 +2534,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &210185172
 GameObject:
@@ -2560,7 +2635,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1001 &212542811
 Prefab:
@@ -2707,7 +2782,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &221132719
 GameObject:
@@ -2893,7 +2968,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!4 &229830839 stripped
 Transform:
@@ -2999,7 +3074,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &250060704
 GameObject:
@@ -3100,7 +3175,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &250996674
 GameObject:
@@ -3201,7 +3276,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &256210717
 GameObject:
@@ -3302,7 +3377,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &256394170
 GameObject:
@@ -3403,8 +3478,151 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
+--- !u!1 &257097945
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 257097946}
+  - component: {fileID: 257097950}
+  - component: {fileID: 257097949}
+  - component: {fileID: 257097948}
+  - component: {fileID: 257097947}
+  m_Layer: 5
+  m_Name: StandardTurretItem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &257097946
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 257097945}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 116323993}
+  m_Father: {fileID: 2104925091}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 73.9, y: 59.9}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &257097947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 257097945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreLayout: 0
+  m_MinWidth: -1
+  m_MinHeight: -1
+  m_PreferredWidth: 100
+  m_PreferredHeight: 100
+  m_FlexibleWidth: -1
+  m_FlexibleHeight: -1
+  m_LayoutPriority: 1
+--- !u!114 &257097948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 257097945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.8207547, g: 0.76268244, b: 0.76268244, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 257097949}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2104925095}
+        m_MethodName: purchaseStandardTurret
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &257097949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 257097945}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 719a62bfe35a4424eb313d97c87689c2, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 3
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &257097950
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 257097945}
+  m_CullTransparentMesh: 0
 --- !u!1 &261805072
 GameObject:
   m_ObjectHideFlags: 0
@@ -3504,7 +3722,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &271187357
 GameObject:
@@ -3605,7 +3823,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &273387717
 GameObject:
@@ -3706,7 +3924,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &276255443
 GameObject:
@@ -3892,7 +4110,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &282433532
 GameObject:
@@ -3993,7 +4211,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &293744489
 GameObject:
@@ -4220,7 +4438,7 @@ Transform:
   - {fileID: 483060823}
   - {fileID: 1807061869}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &293744491
 MonoBehaviour:
@@ -4336,7 +4554,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &309958505
 GameObject:
@@ -4437,7 +4655,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!4 &311792418 stripped
 Transform:
@@ -4543,7 +4761,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &331617655
 GameObject:
@@ -4644,7 +4862,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &331679575
 GameObject:
@@ -4745,7 +4963,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &334813546
 GameObject:
@@ -4846,7 +5064,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &342530420
 GameObject:
@@ -4931,7 +5149,7 @@ Transform:
   m_LocalScale: {x: 4, y: 4, z: 4}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &349591788
 GameObject:
@@ -5032,7 +5250,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &351883618
 GameObject:
@@ -5133,7 +5351,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &372056465
 GameObject:
@@ -5234,7 +5452,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &375649152
 GameObject:
@@ -5335,7 +5553,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &378818333
 GameObject:
@@ -5436,7 +5654,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &385882127
 GameObject:
@@ -5537,7 +5755,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &390821270
 GameObject:
@@ -5638,7 +5856,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &393113535
 GameObject:
@@ -5824,7 +6042,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &403436961
 GameObject:
@@ -5925,7 +6143,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &411790511
 GameObject:
@@ -6026,54 +6244,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
---- !u!1001 &413158997
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: -24.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 1.53
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 30.79
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0.684304
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0.057496294
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0.054276563
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 0.7248975
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1148942065339530, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_Name
-      value: StandardTurret
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-  m_IsPrefabAsset: 0
 --- !u!1 &413541634
 GameObject:
   m_ObjectHideFlags: 0
@@ -6173,7 +6345,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1001 &413602093
 Prefab:
@@ -6316,7 +6488,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &430980345
 GameObject:
@@ -6417,7 +6589,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &431315200
 GameObject:
@@ -6518,7 +6690,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &436406812
 GameObject:
@@ -6619,7 +6791,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &438746057
 GameObject:
@@ -6720,7 +6892,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &451144888
 GameObject:
@@ -6821,7 +6993,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &465276941
 GameObject:
@@ -6922,7 +7094,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &465577696
 GameObject:
@@ -7023,7 +7195,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &483060822
 GameObject:
@@ -7124,7 +7296,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &493023642
 GameObject:
@@ -7310,7 +7482,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!4 &508129989 stripped
 Transform:
@@ -7416,7 +7588,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &519963074
 GameObject:
@@ -7478,7 +7650,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &531840711
 GameObject:
@@ -7579,7 +7751,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &534669902
 GameObject:
@@ -7591,6 +7763,7 @@ GameObject:
   - component: {fileID: 534669905}
   - component: {fileID: 534669904}
   - component: {fileID: 534669903}
+  - component: {fileID: 534669906}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: Untagged
@@ -7652,12 +7825,28 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 534669902}
   m_LocalRotation: {x: 0.4813712, y: 0, z: 0, w: 0.8765169}
-  m_LocalPosition: {x: -13.4, y: 68.46, z: -12.9}
+  m_LocalPosition: {x: -2, y: 84.5, z: -17.67}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 57.55, y: 0, z: 0}
+--- !u!114 &534669906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 534669902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6a31d1a64c5c614fb4aba34f310894c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panSpeed: 30
+  panBorderThickness: 10
+  scrollspeed: 5
+  minY: 10
+  maxY: 80
 --- !u!1 &544860705
 GameObject:
   m_ObjectHideFlags: 0
@@ -7757,7 +7946,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &550572057
 GameObject:
@@ -7858,7 +8047,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &558178583
 GameObject:
@@ -7959,8 +8148,83 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
+--- !u!1 &562667108
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 562667109}
+  - component: {fileID: 562667111}
+  - component: {fileID: 562667110}
+  m_Layer: 5
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &562667109
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 562667108}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1303362638}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &562667110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 562667108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 
+--- !u!222 &562667111
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 562667108}
+  m_CullTransparentMesh: 0
 --- !u!1 &580227920
 GameObject:
   m_ObjectHideFlags: 0
@@ -8060,7 +8324,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1001 &588641842
 Prefab:
@@ -8297,7 +8561,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &620461735
 GameObject:
@@ -8398,7 +8662,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1001 &621572498
 Prefab:
@@ -8545,7 +8809,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &629547292
 GameObject:
@@ -8646,7 +8910,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &633709291
 GameObject:
@@ -8747,7 +9011,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &640095598
 GameObject:
@@ -8848,7 +9112,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &643573686
 GameObject:
@@ -8949,7 +9213,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1001 &648957230
 Prefab:
@@ -9142,7 +9406,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &699721913
 GameObject:
@@ -9243,7 +9507,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &706534375
 GameObject:
@@ -9344,7 +9608,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &708647058
 GameObject:
@@ -9445,7 +9709,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &714740550
 GameObject:
@@ -9546,7 +9810,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &716872310
 GameObject:
@@ -9647,7 +9911,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &738831713
 GameObject:
@@ -9833,7 +10097,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &770512497
 GameObject:
@@ -9934,7 +10198,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &770674937
 GameObject:
@@ -10035,7 +10299,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1001 &806963411
 Prefab:
@@ -10267,7 +10531,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &835561122
 GameObject:
@@ -10368,7 +10632,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!4 &840679991 stripped
 Transform:
@@ -10474,7 +10738,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &887920704
 GameObject:
@@ -10575,7 +10839,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &890493273
 GameObject:
@@ -10676,7 +10940,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &909948261
 GameObject:
@@ -10777,7 +11041,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &912761927
 GameObject:
@@ -10878,7 +11142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &921253772
 GameObject:
@@ -10979,7 +11243,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &922485091
 GameObject:
@@ -11080,7 +11344,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &940469845
 GameObject:
@@ -11181,7 +11445,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!4 &954325151 stripped
 Transform:
@@ -11287,7 +11551,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &977145692
 GameObject:
@@ -11388,7 +11652,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &988296799
 GameObject:
@@ -11489,7 +11753,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &994101982
 GameObject:
@@ -11590,7 +11854,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &996471412
 GameObject:
@@ -11691,7 +11955,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &997004031
 GameObject:
@@ -11792,7 +12056,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1003335026
 GameObject:
@@ -11893,7 +12157,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1012817527
 GameObject:
@@ -11994,13 +12258,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
---- !u!1 &1021186781 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1148942065339530, guid: d1f684f59b650384da10a71101f7b9c0,
-    type: 2}
-  m_PrefabInternal: {fileID: 413158997}
 --- !u!1 &1032702189
 GameObject:
   m_ObjectHideFlags: 0
@@ -12100,7 +12359,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1034990558
 GameObject:
@@ -12201,7 +12460,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1001 &1038973081
 Prefab:
@@ -12290,7 +12549,7 @@ Transform:
   - {fileID: 311792418}
   - {fileID: 840679991}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1043535782
 MonoBehaviour:
@@ -12407,7 +12666,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.58431375, g: 0.5254902, b: 0.5254902, a: 0}
   startColor: {r: 1, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1045546850
 GameObject:
@@ -12598,7 +12857,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1073182340
 GameObject:
@@ -12699,7 +12958,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1082985421
 GameObject:
@@ -12800,7 +13059,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1098556770
 GameObject:
@@ -12986,7 +13245,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1137294578
 GameObject:
@@ -13015,7 +13274,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 49.32, y: 155.3, z: -36.5}
 --- !u!108 &1137294580
 Light:
@@ -13158,7 +13417,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1145082036
 GameObject:
@@ -13344,7 +13603,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1173567512
 GameObject:
@@ -13445,7 +13704,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1178959765
 GameObject:
@@ -13546,7 +13805,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1182068849
 GameObject:
@@ -13647,7 +13906,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1215260505
 GameObject:
@@ -13748,7 +14007,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1220128255
 GameObject:
@@ -13849,7 +14108,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1237563006
 GameObject:
@@ -13950,7 +14209,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1244391813
 GameObject:
@@ -14136,7 +14395,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1288316401
 GameObject:
@@ -14237,7 +14496,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1300589121
 GameObject:
@@ -14338,7 +14597,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1302752948
 GameObject:
@@ -14439,8 +14698,151 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
+--- !u!1 &1303362637
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1303362638}
+  - component: {fileID: 1303362642}
+  - component: {fileID: 1303362641}
+  - component: {fileID: 1303362640}
+  - component: {fileID: 1303362639}
+  m_Layer: 5
+  m_Name: SecondTurretItem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1303362638
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1303362637}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 562667109}
+  m_Father: {fileID: 2104925091}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 73.9, y: 59.9}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1303362639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1303362637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreLayout: 0
+  m_MinWidth: -1
+  m_MinHeight: -1
+  m_PreferredWidth: 100
+  m_PreferredHeight: 100
+  m_FlexibleWidth: -1
+  m_FlexibleHeight: -1
+  m_LayoutPriority: 1
+--- !u!114 &1303362640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1303362637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 0.6933962, b: 0.6933962, a: 1}
+    m_HighlightedColor: {r: 0.8207547, g: 0.76268244, b: 0.76268244, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1303362641}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2104925095}
+        m_MethodName: purchaseSecondTurret
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &1303362641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1303362637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 719a62bfe35a4424eb313d97c87689c2, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 3
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &1303362642
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1303362637}
+  m_CullTransparentMesh: 0
 --- !u!1 &1312082879
 GameObject:
   m_ObjectHideFlags: 0
@@ -14540,7 +14942,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1316144026
 GameObject:
@@ -14641,7 +15043,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1001 &1335479473
 Prefab:
@@ -14834,7 +15236,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1378424259
 GameObject:
@@ -14935,7 +15337,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1394499290
 GameObject:
@@ -15036,7 +15438,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1001 &1406777321
 Prefab:
@@ -15188,7 +15590,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1424365844
 GameObject:
@@ -15289,7 +15691,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1425136674
 GameObject:
@@ -15406,7 +15808,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1426025743
 GameObject:
@@ -15507,7 +15909,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1426228724
 GameObject:
@@ -15608,7 +16010,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1430736073
 GameObject:
@@ -15709,7 +16111,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1437090698
 GameObject:
@@ -15810,7 +16212,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1456330665
 GameObject:
@@ -15911,7 +16313,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1473473938
 GameObject:
@@ -16012,7 +16414,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1475055814
 GameObject:
@@ -16198,7 +16600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1485411799
 GameObject:
@@ -16299,7 +16701,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1488764417
 GameObject:
@@ -16485,7 +16887,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1536818159
 GameObject:
@@ -16717,7 +17119,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1554547573
 GameObject:
@@ -16818,7 +17220,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1573310080
 GameObject:
@@ -16919,7 +17321,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1583203078
 GameObject:
@@ -17020,7 +17422,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1585274160
 GameObject:
@@ -17121,7 +17523,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1593864027
 GameObject:
@@ -17180,7 +17582,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae6bbc627ef9c1042b2d9def355499ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  standartTurretPrefab: {fileID: 1021186781}
+  standartTurretPrefab: {fileID: 1148942065339530, guid: d1f684f59b650384da10a71101f7b9c0,
+    type: 2}
+  secondTurretPrefab: {fileID: 1148942065339530, guid: d1f684f59b650384da10a71101f7b9c0,
+    type: 2}
 --- !u!1 &1606139949
 GameObject:
   m_ObjectHideFlags: 0
@@ -17280,7 +17685,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1610347153
 GameObject:
@@ -17381,7 +17786,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!4 &1618775818 stripped
 Transform:
@@ -17487,7 +17892,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1630515688
 GameObject:
@@ -17588,7 +17993,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!4 &1643223982 stripped
 Transform:
@@ -17779,7 +18184,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1659405702
 GameObject:
@@ -17880,7 +18285,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1689619442
 GameObject:
@@ -17981,7 +18386,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1697544371
 GameObject:
@@ -18082,7 +18487,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1705302163
 GameObject:
@@ -18183,7 +18588,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1707924761
 GameObject:
@@ -18284,7 +18689,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1710732965
 GameObject:
@@ -18385,7 +18790,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1711739003
 GameObject:
@@ -18486,7 +18891,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1727357929
 GameObject:
@@ -18587,7 +18992,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1749745040
 GameObject:
@@ -18688,7 +19093,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1754736644
 GameObject:
@@ -18789,7 +19194,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1758748797
 GameObject:
@@ -18890,7 +19295,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1767489196
 GameObject:
@@ -19166,7 +19571,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1805072987
 GameObject:
@@ -19251,7 +19656,7 @@ Transform:
   m_LocalScale: {x: 4, y: 4, z: 4}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1807061868
 GameObject:
@@ -19352,7 +19757,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1808007935
 GameObject:
@@ -19453,7 +19858,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1809012546
 GameObject:
@@ -19554,7 +19959,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1824941841
 GameObject:
@@ -19740,7 +20145,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1835768302
 GameObject:
@@ -19841,7 +20246,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1849605316
 GameObject:
@@ -19942,7 +20347,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1850516815
 GameObject:
@@ -20043,7 +20448,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1855590793
 GameObject:
@@ -20144,7 +20549,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1858557253
 GameObject:
@@ -20245,7 +20650,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1866887263
 GameObject:
@@ -20431,7 +20836,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1870505005
 GameObject:
@@ -20532,7 +20937,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1873075463
 GameObject:
@@ -20633,7 +21038,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1876774314
 GameObject:
@@ -20824,7 +21229,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1883404800
 GameObject:
@@ -20925,7 +21330,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1884878003
 GameObject:
@@ -21026,7 +21431,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1885770720
 GameObject:
@@ -21127,7 +21532,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1937462926
 GameObject:
@@ -21228,7 +21633,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1949697971
 GameObject:
@@ -21329,7 +21734,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1953440520
 GameObject:
@@ -21430,7 +21835,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1967440799
 GameObject:
@@ -21531,7 +21936,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1968633182
 GameObject:
@@ -21632,7 +22037,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1981892982
 GameObject:
@@ -21733,7 +22138,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1987848774
 GameObject:
@@ -21834,7 +22239,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1992076523
 GameObject:
@@ -21935,7 +22340,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &1997433848
 GameObject:
@@ -22036,7 +22441,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2001832215
 GameObject:
@@ -22307,7 +22712,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2019342191
 GameObject:
@@ -22408,7 +22813,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2026377305
 GameObject:
@@ -22509,7 +22914,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2043347409
 GameObject:
@@ -22610,7 +23015,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2045804729
 GameObject:
@@ -22711,7 +23116,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2046700730
 GameObject:
@@ -22812,7 +23217,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2049318500
 GameObject:
@@ -22913,7 +23318,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2083515673
 GameObject:
@@ -23014,7 +23419,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2084472145
 GameObject:
@@ -23200,7 +23605,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2092931741
 GameObject:
@@ -23301,7 +23706,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2096556656
 GameObject:
@@ -23474,8 +23879,9 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1876774315}
+  - {fileID: 2104925091}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -23581,8 +23987,114 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
+--- !u!1 &2104925090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2104925091}
+  - component: {fileID: 2104925094}
+  - component: {fileID: 2104925093}
+  - component: {fileID: 2104925092}
+  - component: {fileID: 2104925095}
+  m_Layer: 5
+  m_Name: Shop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2104925091
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2104925090}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 257097946}
+  - {fileID: 1303362638}
+  m_Father: {fileID: 2100515508}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0, y: 38.800003}
+  m_SizeDelta: {x: 512, y: 77.5}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2104925092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2104925090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Padding:
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+  m_ChildAlignment: 4
+  m_Spacing: -193.41
+  m_ChildForceExpandWidth: 1
+  m_ChildForceExpandHeight: 1
+  m_ChildControlWidth: 0
+  m_ChildControlHeight: 0
+--- !u!114 &2104925093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2104925090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 0.1764706}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &2104925094
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2104925090}
+  m_CullTransparentMesh: 0
+--- !u!114 &2104925095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2104925090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f803cb98c08ba4baad62735b10c656, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2106185084
 GameObject:
   m_ObjectHideFlags: 0
@@ -23767,7 +24279,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2117091561
 GameObject:
@@ -23953,7 +24465,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2129105023
 GameObject:
@@ -24054,7 +24566,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
 --- !u!1 &2138112711
 GameObject:
@@ -24141,48 +24653,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2138112711}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1001 &2144220317
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: -24.932121
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 1.53
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 25.887148
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0.684304
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0.057496294
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0.054276563
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 0.7248975
-      objectReference: {fileID: 0}
-    - target: {fileID: 4896298883734136, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d1f684f59b650384da10a71101f7b9c0, type: 2}
-  m_IsPrefabAsset: 0
 --- !u!1 &2144370657
 GameObject:
   m_ObjectHideFlags: 0
@@ -24282,5 +24752,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5849056, g: 0.52696687, b: 0.52696687, a: 0.84705883}
   startColor: {r: 0.990566, g: 0, b: 0, a: 0}
-  possitionoffset: {x: 0, y: 1.53, z: 0}
+  possitionoffset: {x: 0, y: 1.53, z: 0.7}
   rotationoffset: {x: -83, y: -83, z: 0}
