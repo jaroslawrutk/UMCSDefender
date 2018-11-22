@@ -23,6 +23,8 @@ public class dzialaj : MonoBehaviour
 
         wavecountdowntext.text = Mathf.Floor(countdown).ToString();
 
+       
+
     }
     IEnumerator SpawnWave()
     {

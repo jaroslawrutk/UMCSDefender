@@ -17584,7 +17584,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   standartTurretPrefab: {fileID: 1148942065339530, guid: d1f684f59b650384da10a71101f7b9c0,
     type: 2}
-  secondTurretPrefab: {fileID: 1148942065339530, guid: d1f684f59b650384da10a71101f7b9c0,
+  secondTurretPrefab: {fileID: 1148942065339530, guid: ae26ff7361bb9a743b2181a6a36ce3d5,
     type: 2}
 --- !u!1 &1606139949
 GameObject:
