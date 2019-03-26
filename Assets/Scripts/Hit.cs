@@ -4,8 +4,11 @@ using UnityEngine;
 public class Hit : MonoBehaviour {
 
     private Transform target;
-    public float speed = 70f;
+    public float speed = 200f;
+    private float atackValue = 30f;
     public GameObject BulletImpact;
+    private BarbarianController barba;
+
     public void seek(Transform _target)
     {
         target = _target;
@@ -36,8 +39,16 @@ public class Hit : MonoBehaviour {
     {
         GameObject effect = (GameObject) Instantiate(BulletImpact, transform.position, transform.rotation);
         Destroy(effect,2f);
+        target.SendMessage("TakeDamage", atackValue);
+        //if (target != null)
+        //{
+        //    barba = target.GetComponent<BarbarianController>();
+        //    barba.TakeDamage(atackValue);
+        //    Debug.Log("HP " + barba.maxhitPoint);
+        //}
 
-        Destroy(target.gameObject);
+        //target.gameObject.SendMessage("TakeDamage", Time.deltaTime * atackValue);
+
         Destroy(gameObject);
     }
 }

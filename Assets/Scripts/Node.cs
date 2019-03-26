@@ -1,11 +1,10 @@
 ﻿
 using UnityEngine;
 using UnityEngine.EventSystems;
-
+using System.Collections.Generic;
 public class Node : MonoBehaviour {
 
     public Color hoverColor;
-    private MeshRenderer rend;
     public Color startColor;
     public Vector3 possitionoffset;
     public Vector3 rotationoffset;
@@ -18,8 +17,8 @@ public class Node : MonoBehaviour {
 
     private void Start()
     {
-        rend = GetComponent<MeshRenderer>();
-        startColor = rend.material.color;
+        //rend = GetComponent<MeshRenderer>();
+        //startColor = rend.material.color;
         buildManager = BuildManager.instance;
     }
 
@@ -28,33 +27,35 @@ public class Node : MonoBehaviour {
     {
         if (buildManager.GetTurretToBuild() == null)
             return;
-
-        if(turret!=null)
+        if (EventSystem.current.IsPointerOverGameObject())
         {
-            Debug.Log("CANT BUILD HERE!!!");
+            Debug.Log("YOU CANT BUILD HERE");
             return;
         }
+        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        RaycastHit hit = new RaycastHit();
 
         GameObject turretToBUild = buildManager.GetTurretToBuild();
-        turret=(GameObject)Instantiate(turretToBUild, transform.position + possitionoffset , Quaternion.Euler(rotationoffset.x, 0f, 0f));
+        if (Physics.Raycast(ray, out hit))
+        {
+            turret = (GameObject)Instantiate(turretToBUild, hit.point, Quaternion.Euler(rotationoffset.x, 0f, 0f));
+            buildManager.SetTurretNull();
+        }
     }
     private void OnMouseEnter()
     {
         if (EventSystem.current.IsPointerOverGameObject())
+        {
+            Debug.Log("YOU CANT BUILD HERE");
             return;
-
-
+        }
         if (buildManager.GetTurretToBuild() == null)
             return;
-
-        rend.material.color = hoverColor;
+        //rend.material.color = hoverColor;
     }
-
-
     private void OnMouseExit()
     {
-
-        rend.material.color = startColor;
+        //rend.material.color = startColor;
     }
 
 

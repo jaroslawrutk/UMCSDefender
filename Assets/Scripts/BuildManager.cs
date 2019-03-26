@@ -4,7 +4,7 @@ using UnityEngine;
 public class BuildManager : MonoBehaviour
 {
     public static BuildManager instance;
-
+    private int currentMoney;
     private void Awake()
     {
         if(instance!=null)
@@ -25,8 +25,19 @@ public class BuildManager : MonoBehaviour
     }
     public void setTurretToBuild(GameObject turret)
     {
-
-        turretToBuild = turret;
+        currentMoney = Money.money;
+        currentMoney -= 400;
+        if (currentMoney < 0)
+            Debug.Log("YUO DONT HAVE ENOUG MONEY");
+        else {
+            Money.money -= 400;
+            turretToBuild = turret;
+        }
+        
+    }
+    public void SetTurretNull()
+    {
+        turretToBuild = null;
     }
 
 

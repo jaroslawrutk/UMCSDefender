@@ -21,21 +21,21 @@ public class CameraController : MonoBehaviour {
         if (!doMovement)
             return;
 		
-        if(Input.GetKey("down") || Input.mousePosition.x>=Screen.height - panBorderThickness )
+        if(Input.GetKey("down") || Input.mousePosition.y >= Screen.height - panBorderThickness )
         {
-            transform.Translate(Vector3.forward*panSpeed*Time.deltaTime,Space.World);
+            transform.Translate(Vector3.back*panSpeed*Time.deltaTime,Space.World);
         }
-        if (Input.GetKey("up") || Input.mousePosition.x <= panBorderThickness)
+        if (Input.GetKey("up") || Input.mousePosition.y <= panBorderThickness)
         {
-            transform.Translate(Vector3.back * panSpeed * Time.deltaTime, Space.World);
+            transform.Translate(Vector3.forward * panSpeed * Time.deltaTime, Space.World);
         }
-        if (Input.GetKey("right") || Input.mousePosition.y <= Screen.height - panBorderThickness)
-        {
-            transform.Translate(Vector3.left * panSpeed * Time.deltaTime, Space.World);
-        }
-        if (Input.GetKey("left") || Input.mousePosition.y >= panBorderThickness)
+        if (Input.GetKey("right") || Input.mousePosition.x <= Screen.height - panBorderThickness)
         {
             transform.Translate(Vector3.right * panSpeed * Time.deltaTime, Space.World);
+        }
+        if (Input.GetKey("left") || Input.mousePosition.x >= panBorderThickness)
+        {
+            transform.Translate(Vector3.left * panSpeed * Time.deltaTime, Space.World);
         }
         float scroll = Input.GetAxis("Mouse ScrollWheel");
 
